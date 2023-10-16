@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>热词</title>
+    <style>
+        .banner{height: 400px;background-color: cornsilk}
+        .a{background: #3064bb;width: 200px;height: 80px;font-size: 18px;text-align: center;line-height: 80px;text-decoration: none;color: white;display: block}
+        .a:hover{background-color: #608dd9}
+    </style>
+</head>
+<body>
+<div class="banner"><a href="https://www.runoob.com/html/html-tutorial.html" target="_blank" class="a">HTML</a>
+    <a href="https://www.runoob.com/css/css-tutorial.html" target="_blank" class="a">CSS</a>
+    <a href="https://www.runoob.com/js/js-tutorial.html" target="_blank" class="a">JavaScript</a>
+    <a href="https://www.runoob.com/vue2/vue-tutorial.html" target="_blank" class="a">Vue</a>
+    <a href="https://www.runoob.com/react/react-tutorial.html" target="_blank" class="a">React</a></div>
+</body>
+</html>
